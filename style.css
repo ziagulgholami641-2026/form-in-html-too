@@ -1,0 +1,30 @@
+     h1{
+            background-color: blue;
+            color: white;
+            font-size: 25px;
+            padding: 2px;
+            text-align: center;
+          
+        }
+      
+        div{
+            width: 100%;
+            height: fit-content;
+            border: 1px solid black;
+            text-align: center;
+        }
+        table{
+            border: 1px solid black;
+            width: 100%;
+            height: fit-content;
+            text-align: center;
+        }
+        tr{
+            border: 1px solid black;
+        }
+        th{
+            border: 1px solid black;
+        }
+        td{
+            border: 1px solid black;
+        }
